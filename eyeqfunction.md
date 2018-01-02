@@ -1,6 +1,6 @@
 * **com\_**_**signal\_read**_
 
-![](/assets/com_signal_read.PNG)
+
 
 **input**: none  
 **output**: raw signal value  
@@ -15,7 +15,7 @@
 
 * **com\_signal\_write**
 
-![](/assets/com_signal_write.PNG)
+
 
 **input**: raw signal value  
 **output**: none  
@@ -27,7 +27,6 @@
 | ComHandleApi | String | Geno com signal read API name |
 | SignalType | Enum | data type defined in dbc |
 |  |  |  |
-
 
 
 
