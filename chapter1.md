@@ -4,22 +4,12 @@
 
 提供CAN 网络信号访问接口，读信号以及写信号等操作，CANStack-VTP by mentor.
 
-1. **vtp\_signal\_read**
+* **Com\_function**
 
-    **input**: none  
-    **output**: raw signal value   
-    **parameters**:  
-    
-| Name |Datatype| Description|
-| :--- | :--- |
-| VtpSignalHandleName |String||
-| VtpSignalType  |DataType||
-| VtpSignalTypeNCF |none|obsolete|
-| StartBit | none| obsolete|
+提供CAN网络信号访问接口，读信号以及写信号等操作， GenoStack-COM by Hirain.
 
-
-* Com\_function
 * checksum\_function
+
 * eyeq\_function
 * il\_function
 * general
