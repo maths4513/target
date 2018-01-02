@@ -34,10 +34,8 @@ System Requirement
 Install
 In matlab command window:
 
-
-```
 run install.m 
-```
+
 
 
 
