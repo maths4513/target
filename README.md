@@ -26,17 +26,16 @@ Fascam Target通过C-Sfunction的方式提供接口，在simulink中实现相关
 
 System Requirement
 
-|  OS|   windows 32/64|
+| OS | windows 32/64 |
 | :--- | :--- |
-| matlab| matlab2011b/matlab2016b |
-
+| matlab | matlab2011b/matlab2016b |
 
 Install
 
 In matlab command window:
 
 ```
-run install.m 
+run install.m
 ```
 
 Unistall
@@ -44,12 +43,8 @@ Unistall
 In matlab command window:
 
 ```
-run uninstall.m 
+run uninstall.m
 ```
-
-
-
-
 
 
 
