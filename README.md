@@ -1,6 +1,8 @@
 # Overview
 
-Fascam软件组成中，算法功能是通过matlab实现。
+Fascam软件组成中，算法功能是通过matlab simulink实现.
+
+Fascam Target 是针对Fascam 开发集成需求设计的一套C-Sfunction.
 
 # 接口定义
 
