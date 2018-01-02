@@ -1,9 +1,7 @@
-* **com\_**_**signal\_read**_
-
-
+* **hsk\_get\_sig\_val**
 
 **input**: none  
-**output**: raw signal value  
+**output**: physic signal value  
 **parameters**:
 
 | Name | Datatype | Description |
@@ -13,9 +11,7 @@
 | SignalType | Enum | data type defined in dbc |
 |  |  |  |
 
-* **com\_signal\_write**
-
-
+* **hsk\_get\_sig\_raw\_val**
 
 **input**: raw signal value  
 **output**: none  
