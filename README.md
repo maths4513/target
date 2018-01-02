@@ -32,12 +32,21 @@ System Requirement
 
 
 Install
-In matlab command window:
 
+In matlab command window:
 
 ```
 run install.m 
 ```
+
+Unistall
+
+In matlab command window:
+
+```
+run uninstall.m 
+```
+
 
 
 
