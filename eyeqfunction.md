@@ -23,10 +23,12 @@
 
 | Name | Datatype | Description |
 | :--- | :--- | :--- |
-| ComSignalName | String | signal name defined in geno |
-| ComHandleApi | String | Geno com signal read API name |
-| SignalType | Enum | data type defined in dbc |
-|  |  |  |
+| Raw Signal Op API | String | return raw value |
+| Physic Signal Op API | String | return physic value |
+| Data Type | Enum | data type defined in dbc |
+| Buffer ID On TP Level | Enum |  |
+
+
 
 
 
