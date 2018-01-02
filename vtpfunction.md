@@ -1,5 +1,7 @@
 * **vtp\_signal\_read**
 
+![](/assets/vtp_signal_read.PNG)
+
 **input**: none  
 **output**: raw signal value  
 **parameters**:
@@ -13,7 +15,7 @@
 
 * **vtp\_signal\_write**
 
-
+![](/assets/vtp_signal_write.PNG)
 
 **input**: raw signal value  
 **output**: none  
