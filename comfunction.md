@@ -1,6 +1,6 @@
 * com\__signal\_read_
 
-![](/assets/vtp_signal_read.PNG)
+![](/assets/com_signal_read.PNG)
 
 **input**: none  
 **output**: raw signal value  
