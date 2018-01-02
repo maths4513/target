@@ -2,7 +2,7 @@
 
 Fascam软件组成中，算法功能是通过matlab实现。
 
-* 接口定义
+![](/assets/software_arch.png)接口定义
 
 算法和软件之间的接口主要有三类**：**
 
@@ -10,7 +10,7 @@ Fascam软件组成中，算法功能是通过matlab实现。
 
 摄像头模块和车辆其他节点通信矩阵。
 
-1. Eyeq signals: me_dbcs, Hirain_ME_-EYEQ\_COM.xls_
+1. Eyeq signals: me_dbcs, Hirain\_ME_-EYEQ\_COM.xls\_
 
 EYEQ SPI应用层协议，以及补充说明。
 
@@ -20,5 +20,5 @@ EYEQ SPI应用层协议，以及补充说明。
 
 * 实现方式
 
-![](/assets/software_arch.png)
+Fascam Target通过C-Sfunction的方式提供接口，在simulink中实现相关API的调用。
 
