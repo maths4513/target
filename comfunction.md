@@ -9,7 +9,7 @@
 | Name | Datatype | Description |
 | :--- | :--- | :--- |
 | ComSignalName | String | signal name defined in geno |
-| ComHandleApi | String | Geno com signal read api name |
+| ComHandleApi | String | Geno com signal read API name |
 | SignalType | Enum | data type defined in dbc |
 |  |  |  |
 
@@ -23,10 +23,11 @@
 
 | Name | Datatype | Description |
 | :--- | :--- | :--- |
-| VtpSignalHandleName | String | signal handle defined in v\_hand.h |
-| VtpSignalType | DataType |  |
-| VtpSignalTypeNCF | none | obsolete |
-| StartBit | none | obsolete |
+| ComSignalName | String | signal name defined in geno |
+| ComHandleApi | String | Geno com signal read API name |
+| SignalType | Enum | data type defined in dbc |
+|  |  |  |
+
 
 
 
