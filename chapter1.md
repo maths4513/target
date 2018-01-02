@@ -1,6 +1,6 @@
 # Fascam Simulink Target
 
-
+![](/assets/simulink_target.png)
 
 * **vtp\_function**
 
@@ -29,6 +29,4 @@
 * **msgpack**
 
 针对CANStack-VTP, 仅提供了针对信号的API,并未提供针对报文的访问接口，而chekcsum等计算需要针对报文按字节进行运算，msgpack提供通过信号来进行message的组包，通常和checksum\_funcion一起使用。
-
-
 
