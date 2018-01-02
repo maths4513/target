@@ -8,15 +8,15 @@ Fascam Target 是针对Fascam 开发集成需求设计的一套C-Sfunction.
 
 算法和软件之间的接口主要有三类**：**
 
-* Vehicle:fascam\_matrix.dbc
+* Vehicle:_**fascam\_matrix.dbc**_
 
 摄像头模块和车辆其他节点通信矩阵。
 
-* Eyeq signals: me_dbcs, Hirain\_ME_-EYEQ\_COM.xls\_
+* Eyeq signals:** me**_**dbcs**, **Hirain\_ME-EYEQ\_COM.xls\_**_
 
 EYEQ SPI应用层协议，以及补充说明。
 
-* System signals:FASCamSysInterfaceOfSwVxx.dbc
+* System signals:_**FASCamSysInterfaceOfSwVxx.dbc**_
 
 系统默认功能配置，系统需要存储的一些信息等。
 
