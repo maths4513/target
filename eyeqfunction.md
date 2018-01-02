@@ -1,17 +1,21 @@
 * **hsk\_get\_sig\_val**
 
+![](/assets/hsk_get_sig_val.PNG)
+
 **input**: none  
 **output**: physic signal value  
 **parameters**:
 
 | Name | Datatype | Description |
 | :--- | :--- | :--- |
-| ComSignalName | String | signal name defined in geno |
-| ComHandleApi | String | Geno com signal read API name |
-| SignalType | Enum | data type defined in dbc |
-|  |  |  |
+| Raw Signal Op API | String | return raw value |
+| Physic Signal Op API | String | return physic value |
+| Data Type | Enum | data type defined in dbc |
+| Buffer ID On TP Level | Enum |  |
 
 * **hsk\_get\_sig\_raw\_val**
+
+![](/assets/hsk_get_sig_raw_val.PNG)
 
 **input**: none  
 **output**: raw signal value  
