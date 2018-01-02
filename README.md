@@ -2,7 +2,7 @@
 
 Fascam软件组成中，算法功能是通过matlab simulink实现.
 
-Fascam Target 是针对Fascam 开发集成需求设计的一套C-Sfunction.
+Fascam Target通过C-Sfunction的方式提供接口，在simulink中实现BSW相关API的调用。
 
 # 接口定义
 
@@ -12,17 +12,13 @@ Fascam Target 是针对Fascam 开发集成需求设计的一套C-Sfunction.
 
 摄像头模块和车辆其他节点通信矩阵。
 
-* Eyeq signals:** me**_**dbcs**, **Hirain\_ME-EYEQ\_COM.xls\_**_
+* Eyeq signals:** me**_**dbcs**, \*\*Hirain\_ME-EYEQ\_COM.xls\_\*\*\_
 
 EYEQ SPI应用层协议，以及补充说明。
 
 * System signals:_**FASCamSysInterfaceOfSwVxx.dbc**_
 
 系统默认功能配置，系统需要存储的一些信息等。
-
-# 实现方式
-
-Fascam Target通过C-Sfunction的方式提供接口，在simulink中实现相关API的调用。
 
 # 安装
 
