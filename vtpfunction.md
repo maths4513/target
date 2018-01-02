@@ -1,8 +1,8 @@
 * **vtp\_signal\_read**
 
-  **input**: none  
-  **output**: raw signal value  
-  **parameters**:
+**input**: none  
+**output**: raw signal value  
+**parameters**:
 
 | Name | Datatype | Description |
 | :--- | :--- | :--- |
@@ -13,9 +13,11 @@
 
 * **vtp\_signal\_write**
 
-  **input**: raw signal value  
-  **output**: none  
-  **parameters**:
+
+
+**input**: raw signal value  
+**output**: none  
+**parameters**:
 
 | Name | Datatype | Description |
 | :--- | :--- | :--- |
