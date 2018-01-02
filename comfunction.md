@@ -1,4 +1,4 @@
-* com\__signal\_read_
+* **com\_**_**signal\_read**_
 
 ![](/assets/com_signal_read.PNG)
 
@@ -8,12 +8,12 @@
 
 | Name | Datatype | Description |
 | :--- | :--- | :--- |
-| VtpSignalHandleName | String | signal handle defined in v\_hand.h |
-| VtpSignalType | DataType |  |
-| VtpSignalTypeNCF | none | obsolete |
-| StartBit | none | obsolete |
+| ComSignalName | String | signal name defined in geno |
+| ComHandleApi | String | Geno com signal read api name |
+| SignalType | Enum | data type defined in dbc |
+|  |  |  |
 
-* **vtp\_signal\_write**
+* **com\_signal\_write**
 
 ![](/assets/com_signal_write.PNG)
 
