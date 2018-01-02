@@ -22,3 +22,22 @@ EYEQ SPI应用层协议，以及补充说明。
 
 Fascam Target通过C-Sfunction的方式提供接口，在simulink中实现相关API的调用。
 
+# 安装
+
+System Requirement
+
+|  OS|   windows 32/64|
+| :--- | :--- |
+| matlab| matlab2011b/matlab2016b |
+
+
+Install
+In matlab command window:
+
+
+```
+run install.m 
+```
+
+
+
