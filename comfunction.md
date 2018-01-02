@@ -15,7 +15,7 @@
 
 * **vtp\_signal\_write**
 
-![](/assets/vtp_signal_write.PNG)
+![](/assets/com_signal_write.PNG)
 
 **input**: raw signal value  
 **output**: none  
