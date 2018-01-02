@@ -24,11 +24,8 @@
 | Name | Datatype | Description |
 | :--- | :--- | :--- |
 | Raw Signal Op API | String | return raw value |
-| Physic Signal Op API | String | return physic value |
 | Data Type | Enum | data type defined in dbc |
 | Buffer ID On TP Level | Enum |  |
-
-
 
 
 
