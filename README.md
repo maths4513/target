@@ -12,7 +12,7 @@ Fascam Target通过C-Sfunction的方式提供接口，在simulink中实现BSW相
 
 摄像头模块和车辆其他节点通信矩阵。
 
-* Eyeq signals:** me**_**dbcs**, \*\*Hirain\_ME-EYEQ\_COM.xls\_\*\*\_
+* Eyeq signals:** me**_**dbcs**, **Hirain\_ME-EYEQ\_COM.xls**_
 
 EYEQ SPI应用层协议，以及补充说明。
 
