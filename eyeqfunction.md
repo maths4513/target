@@ -13,8 +13,8 @@
 
 * **hsk\_get\_sig\_raw\_val**
 
-**input**: raw signal value  
-**output**: none  
+**input**: none  
+**output**: raw signal value  
 **parameters**:
 
 | Name | Datatype | Description |
